@@ -6,7 +6,7 @@ GitHub have decided to [archive public repositories](https://archiveprogram.gith
 
 ## Using this repo
 All messages belong to the subfolder "messages". There, each user may create a file (filename = username.md) and write their thoughts inside.
-Don't forget to make a pull-request after creating the file!
+**Don't forget to make a pull-request after creating the file!**
 
 ## Markdown
 Messages have **.md** extension. This allows users to use [Markdown features](https://guides.github.com/features/mastering-markdown/) to add some style to messages.
