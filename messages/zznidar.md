@@ -1,1 +1,1 @@
-[placeholder]
+“Memories are letters, written in the past to your very own self in the future.”
